@@ -1,0 +1,14 @@
+{
+  "name": "requestallocater",
+  "version": "1.0.0",
+  "description": "request allocator program",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}

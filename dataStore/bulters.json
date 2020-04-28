@@ -1,0 +1,62 @@
+[
+  {
+    "butlerId": 1,
+    "name": "bulter1",
+    "availableTime": 8,
+    "clients": []
+  },
+  {
+    "butlerId": 2,
+    "name": "bulter2",
+    "availableTime": 8,
+    "clients": []
+  },
+  {
+    "butlerId": 3,
+    "name": "bulter3",
+    "availableTime": 8,
+    "clients": []
+  },
+  {
+    "butlerId": 4,
+    "name": "bulter4",
+    "availableTime": 8,
+    "clients": []
+  },
+  {
+    "butlerId": 5,
+    "name": "bulter5",
+    "availableTime": 8,
+    "clients": []
+  },
+  {
+    "butlerId": 6,
+    "name": "bulter6",
+    "availableTime": 8,
+    "clients": []
+  },
+  {
+    "butlerId": 7,
+    "name": "bulter7",
+    "availableTime": 8,
+    "clients": []
+  },
+  {
+    "butlerId": 8,
+    "name": "bulter8",
+    "availableTime": 8,
+    "clients": []
+  },
+  {
+    "butlerId": 9,
+    "name": "bulter9",
+    "availableTime": 8,
+    "clients": []
+  },
+  {
+    "butlerId": 10,
+    "name": "bulter10",
+    "availableTime": 8,
+    "clients": []
+  }
+]
